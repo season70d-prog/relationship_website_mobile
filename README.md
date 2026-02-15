@@ -57,7 +57,7 @@ To add your own images, place them in **`src/assets/`** under the correct subfol
 - Naming format: `Picture1.png`, `Picture2.png`, `Picture3.png`, etc.
 
 📌 **Music Album Covers** (used in the Music Recap page):
-- Location: `src/assets/music/`
+- Location: `src/assets/`
 - Naming format: `1.png`, `2.png`, `3.png`, etc.
 - **The order of these images follows the list in `config.js` from bottom to top.**
   - **Example:**
