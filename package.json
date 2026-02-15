@@ -2,12 +2,14 @@
   "name": "relationship_website_mobile",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://season70d-prog.github.io/relationship_website_mobile",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview" ,
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "date-fns": "^4.1.0",
